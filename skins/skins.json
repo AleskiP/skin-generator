@@ -1,0 +1,94 @@
+{
+  "modelType": "slim",
+  "filename": "skin-custom.png",
+  "categories": [
+    {
+      "id": "tete",
+      "label": "Tête",
+      "pieces": [
+        {
+          "name": "Nœud rouge foncé",
+          "file": "tete/noeud-rouge-fonce.png"
+        },
+        {
+          "name": "Nœud rouge vif",
+          "file": "tete/noeud-rouge-vif.png"
+        },
+        {
+          "name": "Nœud bleu",
+          "file": "tete/noeud-bleu.png"
+        },
+        {
+          "name": "Nœud bordeaux",
+          "file": "tete/noeud-bordeaux.png"
+        }
+      ]
+    },
+    {
+      "id": "haut",
+      "label": "Haut",
+      "pieces": [
+        {
+          "name": "Pull renne vert",
+          "file": "haut/pull-renne-vert.png"
+        },
+        {
+          "name": "Pull bonhomme rouge",
+          "file": "haut/pull-bonhomme-rouge.png"
+        },
+        {
+          "name": "Pull bonhomme bleu",
+          "file": "haut/pull-bonhomme-bleu.png"
+        },
+        {
+          "name": "Pull bonhomme bordeaux",
+          "file": "haut/pull-bonhomme-bordeaux.png"
+        }
+      ]
+    },
+    {
+      "id": "bras",
+      "label": "Bras",
+      "pieces": [
+        {
+          "name": "Manches vertes",
+          "file": "bras/manches-vertes.png"
+        },
+        {
+          "name": "Manches rouges",
+          "file": "bras/manches-rouges.png"
+        },
+        {
+          "name": "Manches bleues",
+          "file": "bras/manches-bleues.png"
+        },
+        {
+          "name": "Manches bordeaux",
+          "file": "bras/manches-bordeaux.png"
+        }
+      ]
+    },
+    {
+      "id": "bas",
+      "label": "Bas",
+      "pieces": [
+        {
+          "name": "Pantalon carreaux vert",
+          "file": "bas/pantalon-carreaux-vert.png"
+        },
+        {
+          "name": "Pantalon carreaux rouge",
+          "file": "bas/pantalon-carreaux-rouge.png"
+        },
+        {
+          "name": "Pantalon carreaux marron",
+          "file": "bas/pantalon-carreaux-marron.png"
+        },
+        {
+          "name": "Jupe et bottes noires",
+          "file": "bas/jupe-bottes-noires.png"
+        }
+      ]
+    }
+  ]
+}
