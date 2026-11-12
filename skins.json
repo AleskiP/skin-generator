@@ -1,46 +1,93 @@
 {
-  "modelType": "classic",
-  "filename": "mon-skin-noel.png",
+  "modelType": "slim",
+  "filename": "skin-custom.png",
   "categories": [
     {
       "id": "tete",
       "label": "Tête",
       "pieces": [
-        { "name": "Bonnet rouge", "file": "skins/tete/bonnet-rouge.png" },
-        { "name": "Elfe", "file": "skins/tete/elfe.png" },
-        { "name": "Bonhomme de neige", "file": "skins/tete/bonhomme-neige.png" },
-        { "name": "Renne", "file": "skins/tete/renne.png" },
-        { "name": "Père Noël", "file": "skins/tete/pere-noel.png" }
+        {
+          "name": "Nœud rouge foncé",
+          "file": "tete/noeud-rouge-fonce.png"
+        },
+        {
+          "name": "Nœud rouge vif",
+          "file": "tete/noeud-rouge-vif.png"
+        },
+        {
+          "name": "Nœud bleu",
+          "file": "tete/noeud-bleu.png"
+        },
+        {
+          "name": "Nœud bordeaux",
+          "file": "tete/noeud-bordeaux.png"
+        }
       ]
     },
     {
       "id": "haut",
       "label": "Haut",
       "pieces": [
-        { "name": "Pull moche", "file": "skins/haut/pull-moche.png" },
-        { "name": "Manteau rouge", "file": "skins/haut/manteau-rouge.png" },
-        { "name": "Veste d'elfe", "file": "skins/haut/veste-elfe.png" },
-        { "name": "Pull bleu givré", "file": "skins/haut/pull-bleu.png" }
+        {
+          "name": "Pull renne vert",
+          "file": "haut/pull-renne-vert.png"
+        },
+        {
+          "name": "Pull bonhomme rouge",
+          "file": "haut/pull-bonhomme-rouge.png"
+        },
+        {
+          "name": "Pull bonhomme bleu",
+          "file": "haut/pull-bonhomme-bleu.png"
+        },
+        {
+          "name": "Pull bonhomme bordeaux",
+          "file": "haut/pull-bonhomme-bordeaux.png"
+        }
       ]
     },
     {
       "id": "bras",
       "label": "Bras",
       "pieces": [
-        { "name": "Manches rouges", "file": "skins/bras/manches-rouges.png" },
-        { "name": "Manches vertes", "file": "skins/bras/manches-vertes.png" },
-        { "name": "Manches rayées", "file": "skins/bras/manches-rayees.png" },
-        { "name": "Moufles", "file": "skins/bras/moufles.png" }
+        {
+          "name": "Manches vertes",
+          "file": "bras/manches-vertes.png"
+        },
+        {
+          "name": "Manches rouges",
+          "file": "bras/manches-rouges.png"
+        },
+        {
+          "name": "Manches bleues",
+          "file": "bras/manches-bleues.png"
+        },
+        {
+          "name": "Manches bordeaux",
+          "file": "bras/manches-bordeaux.png"
+        }
       ]
     },
     {
       "id": "bas",
       "label": "Bas",
       "pieces": [
-        { "name": "Pantalon rouge", "file": "skins/bas/pantalon-rouge.png" },
-        { "name": "Pantalon noir", "file": "skins/bas/pantalon-noir.png" },
-        { "name": "Collant d'elfe", "file": "skins/bas/collant-elfe.png" },
-        { "name": "Jean enneigé", "file": "skins/bas/jean-neige.png" }
+        {
+          "name": "Pantalon carreaux vert",
+          "file": "bas/pantalon-carreaux-vert.png"
+        },
+        {
+          "name": "Pantalon carreaux rouge",
+          "file": "bas/pantalon-carreaux-rouge.png"
+        },
+        {
+          "name": "Pantalon carreaux marron",
+          "file": "bas/pantalon-carreaux-marron.png"
+        },
+        {
+          "name": "Jupe et bottes noires",
+          "file": "bas/jupe-bottes-noires.png"
+        }
       ]
     }
   ]
